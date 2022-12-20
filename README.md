@@ -26,13 +26,19 @@ We received the KOBE GASTRO GROUP project as a group at the VSKK University. In 
 
 There were a lot of failed attempts behind it and also struggles in a team but we always found a way how do things with respect.
 
+![SKETCHES.](FIRSTIDEA.png)
+![SKETCHES2.](SKETCH.png)
+
 #### The final element
 In the final, we decided to make a circular shape of main element that represents a plate and that's a representative symbol of each of the
 KOBE GASTRO GROUP restaurants, which differ from each other in style and cuisine. This element of the plate unites all restaurants.
 
+![ELEMENT.](MAINTHING.png)
 
 #### Logo typography
  After consulting with the client and our school project leaders, we agreed on a round element of the logo but the font still wasn't alright. That's why we chose from several variants and font styles that would represent the brand best.
+ 
+#![TYPO.](TYPO.png)
  
 #### Final logo
 For the final logo, we decided to choose the GENERAL SANS font, which seemed modern to us, clean and at the same time does not evoke any kitchen style, because of it it can be a umbrella brand for several different restaurants.
