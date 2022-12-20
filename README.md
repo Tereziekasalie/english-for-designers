@@ -38,10 +38,15 @@ KOBE GASTRO GROUP restaurants, which differ from each other in style and cuisine
 #### Logo typography
  After consulting with the client and our school project leaders, we agreed on a round element of the logo but the font still wasn't alright. That's why we chose from several variants and font styles that would represent the brand best.
  
-#![TYPO.](TYPO.png)
+![TYPO.](TYPO.png)
  
 #### Final logo
 For the final logo, we decided to choose the GENERAL SANS font, which seemed modern to us, clean and at the same time does not evoke any kitchen style, because of it it can be a umbrella brand for several different restaurants.
 
+![MAINLOGO.](mainLOGO.png)
+
 #### Visualization
 We agreed with the client on the element and the logo and for better understanding to our vision we made these visuals. 
+
+![VISUAL.](VISUAL.png)
+![WEBVISUAL.](WEBVISUAL.png)
