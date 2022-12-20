@@ -19,4 +19,8 @@ I love to spend time with my pets and do collective sports with friends.
 We received the KOBE GASTRO GROUP project as a group at the VSKK University. In the number of 5 people, we created a new logo for the main brand of several restaurants and competed with other teams from the school. First, we started researching how other umbrella restaurants look. After consulting with the project leader teachers, we created the first designs. I present you our logo from basic sketches
 
 First ideas
+
  One of the most important things is the representing element of the KOBE GASTRO GROUP. That's why we started with it immediately after research.
+ 
+![PHOTO of SKETCHES KGG.](SKETCHES.png)
+
