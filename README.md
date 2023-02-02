@@ -50,3 +50,9 @@ We agreed with the client on the element and the logo and for better understandi
 
 ![VISUAL.](VISUAL.png)
 ![WEBVISUAL.](WEBVISUAL.png)
+
+### Extras
+
+## Alternative text 
+## First impression
+## Takeaways
