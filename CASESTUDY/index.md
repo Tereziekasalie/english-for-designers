@@ -14,6 +14,7 @@ We received the KOBE GASTRO GROUP project as a group at the VSKK University. In 
 
 There were a lot of failed attempts behind it and also struggles in a team but we always found a way how do things with respect.
 
+
 ![SKETCHES.](FIRSTIDEA.png)
 ![SKETCHES2.](SKETCH.png)
 
