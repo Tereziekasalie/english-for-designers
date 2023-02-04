@@ -4,6 +4,8 @@ This is my homepage
 
 ## About me
 
+- [My story](MYSTORY)
+
 ![PHOTO of me, invitating smile.](niceme.PNG)
 
 I am a graphic designer passionate about illustrations. I study  at the University in Prague for graphic designer. I still kind of finding myself so I'm exited about new experiences. Because my calm and friendly personality Ican cooperate really well in teams.
