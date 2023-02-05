@@ -15,3 +15,6 @@ This is my homepage
 
 - [Alternative text](dropcap)
 - [First impression](firstimpression)
+- [Takeaways](takeaways)
+
+
