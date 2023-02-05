@@ -13,4 +13,4 @@ This is my homepage
 
 ## Classwork
 
-- [Alternative text](Altern)
+- [Alternative text](Dropcap)
