@@ -15,6 +15,7 @@ This is my homepage
 
 - [Alternative text](dropcap)
 - [First impression](firstimpression)
+- [Voice and tone](voiceandtone)
 - [Takeaways](takeaways)
 
 
