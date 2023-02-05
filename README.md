@@ -5,5 +5,7 @@ This is my homepage
 ## About me
 
 - [My story](MYSTORY)
-- [CV/resumé](CV)
+- [Cv/resumé](CV)
+
+## Case study
 
