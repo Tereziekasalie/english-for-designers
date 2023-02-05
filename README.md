@@ -9,3 +9,8 @@ This is my homepage
 
 ## Case study
 
+- [Kobe Gastro Group](CASESTUDY)
+
+## Classwork
+
+- [Alternative text](Altern)
