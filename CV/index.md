@@ -1,3 +1,12 @@
+### GRAPHIC DESIGNER
+
+Based in Kralupy nad Vltavou, Czech Republic
+
+
+contact: tereza.kasalicka@centrum.cz
+online portfolio: https://tereziekasalickc887.myportfolio.com
+
+
 ## Experience
 
 ***2022***
