@@ -33,7 +33,7 @@ Vector graphic, catalogs, clothes mockups.
 ***2018 - 2020***
 
 + Ministry of Defense
-Representative graphic works for ministry as calendars, New Year‘s cards, books, banners, games for the event.
+Representative graphic works for ministry as calendars, New Year‘s cards, books, banners, games for the events.
 
 ***2017 - now***
 
