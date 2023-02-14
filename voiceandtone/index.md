@@ -4,7 +4,7 @@
 
 1. Friendly 
 
-For my introvert personality is important to cooperate with kindly people with humanity, so my voice should be example of what kind of people I would like to cooperate with.
+For my introverted personality, it’s important to collaborate with like-minded, kind individuals, so my voice should be an example of what kind of people I would like to collaborate with on projects.
 
 2. Authentic 
 
@@ -36,6 +36,6 @@ It is not necessary sound like robot, add some emojis and show clients that they
 
 3. Open and honest 
 
-It is important to say things as they are especially in our field and being honest makes everyone's job easier, especially if you work in a team
+It’s important to say things as they are specific to our field. And being honest makes everyone’s job easier, especially if you work in a team.
 
 
