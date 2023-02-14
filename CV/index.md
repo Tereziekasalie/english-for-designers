@@ -63,16 +63,16 @@ Representative graphic works for ministry as calendars, New Year‘s cards, book
 
 ## Experience
 
-Adobe Ilustrator
++ Adobe Ilustrator
 
-Adobe Photoshop
++ Adobe Photoshop
 
-Adobe Indesign
++ Adobe Indesign
 
-FIgma
++ Figma
 
 ## Language skills
 
-Native Czech
++ Native Czech
 
-Intermediate English
++ Intermediate English
