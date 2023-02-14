@@ -4,7 +4,7 @@
 
 ### KOBE GASTRO GROUP
 
-We received the KOBE GASTRO GROUP project as a group at the VSKK University. In the number of 5 people, we created a new logo for the main brand of several restaurants and competed with other teams from the school. First, we started researching how other umbrella restaurants look. After consulting with the project leader teachers, we created the first designs. I present you our logo from basic sketches
+We received the Kobe Gastro Group project as a group at the University of Creative Communication (VŠKK). Working in a team of five designers, we created a new logo for the parent brand of several restaurants and competed with other teams from the school. First, we started researching how other affiliated restaurants looked. After our research, we consulted with the project leader teachers, then created the first designs. Below, I present you our logo process from initial sketches.
 
 #### First ideas
 
@@ -30,7 +30,7 @@ KOBE GASTRO GROUP restaurants, which differ from each other in style and cuisine
 ![TYPO.](TYPO.png)
  
 #### Final logo
-For the final logo, we decided to choose the GENERAL SANS font, which seemed modern to us, clean and at the same time does not evoke any kitchen style, because of it it can be a umbrella brand for several different restaurants.
+For the final logo, we decided to choose the GENERAL SANS font, which seemed modern to us, clean and at the same time does not evoke any cuisine style, because of it it can be a umbrella brand for several different restaurants.
 
 ![MAINLOGO.](mainLOGO.png)
 
