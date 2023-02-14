@@ -1,11 +1,6 @@
 ![PHOTO of me, invitating smile.](IMG_9516.jpg)
 
-I am a graphic designer passionate about illustrations. I study at the University in Prague for graphic designer. I still kind of finding myself so I'm exited about new experiences. Because my calm and friendly personality I can cooperate really well in teams.  I love drawing, painting everything what touches art a bit, so I would describe myself more like an artist. I have been always creative being. Since childhood I created crazy things and it was always something extra but sometimes it wasn't the best work. 
-But I always loved it and that's the most important. I love to spend time with my pets, drink too much coffee and do collective sports with friends.
+I’m a graphic designer, passionate about illustration. I study graphic design at the University of Creative Communication (VŠKK) in Prague. I’m still finding myself, so I’m excited about new experiences. Because of my calm and friendly personality, I can collaborate well in teams. I love drawing, painting, and everything that touches art. So, I would describe myself more as an artist. I’ve always been a creative individual. Since childhood, I created crazy things, extraordinary at times, even when it wasn’t my best work. But I’ve always loved it, and that’s the most important thing to me. I also love to spend time with my pets, drink too much coffee, and do group sports with friends.
 
-### Project
-
-Redesign of three different magazine covers.
-The goal was to redesign the magazine so that their cover better matched the magazine's content and price. I also tried to make the covers more attractive at first glance.
 
 
