@@ -7,6 +7,8 @@ Welcome to my page, my name is Tereza and I am a graphic designer!
 - [My story](MYSTORY)
 - [CV/resumé](CV)
 
+## Abstract
+
 ## Case study
 
 - [Kobe Gastro Group](CASESTUDY)
