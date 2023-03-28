@@ -4,4 +4,4 @@ The thesis deals with the creation of a new visual identity for the existing win
 	The resulting design should add certainty and uniqueness to the wine, thereby helping to change the overall perception of fruit wines on the domestic market. The entire design is accompanied by illustrations that represent the company’s values in a customer friendly manner. 
 
 #### Keywords: 
-Visual identity, packaging design, illustration, winery, winemaking
+Visual identity, packaging design, illustration, winery, fruit wines
