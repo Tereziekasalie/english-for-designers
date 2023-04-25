@@ -16,6 +16,7 @@ I chose to redesign small fruit winery. I really liked that winery produce their
 ![Logonew](logo.jpg)
 
 ![logoaplication](logoaplication.jpg)
+![ilustrations](ilustrations.jpg)
 ![labelsnew](labels.jpg)
 ![Labelsaplication](labelsaplication.jpg)
 
