@@ -1,7 +1,7 @@
 #### Abstract:
-The thesis deals with the creation of a new visual identity for the existing winery called Pankovo, which focuses on production of wines made from fruits. The theoretical part of the work consists of the definition of the concept from the graphic environment and a survey of the competition of the market in which the company is located. 
-	Within the framework of the knowledge arising from it creates a new design and marketing communication. It aims to increase awareness of the company, but also to change the current view of the brand and improve its place on the market.
-	The resulting design should add certain uniqueness to the wine, thereby helping to change the overall perception of fruit wines on the domestic market. The entire design is accompanied by illustrations that represent the company’s values in a customer friendly manner. 
+The theses explores the design and development of a new visual identity for the existing winery called Pankovo, a producer of wines made from fruits.
+The theoretical part of the work consists of the definition of the concept from the visual environment and a survey of local competitors. Within the framework of the knowledge arising from it will guide the creation of a new design and marketing communication. It aims to increase awareness of the company, change the current public perception of the brand, and improve its position in the market.
+The resulting design proposes a visual uniqueness to the wine brand, accompanied by illustrations that represent the company’s values in a customer-friendly manner, thereby repositioning the branding of fruit wines on the domestic market.
 
 #### Keywords: 
-Visual identity, packaging design, illustration, winery, fruit wines
+visual identity, packaging design, illustration, winery, fruit wines
