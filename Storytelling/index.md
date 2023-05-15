@@ -89,7 +89,7 @@ Use these basic shapes co create completely new logo in few minutes.
 
 This can be great way to help understand power of basic shapes and elements in graphic design.
 
-### And another example for home <3
+### And another example for home <3 <3 <3
 
 ![forhome](22.png)
 
