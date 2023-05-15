@@ -7,7 +7,7 @@ Its thing that everyone has.
 
 ![Attention](1.jpg)
 
-#### And its phone!
+#### And it's phone!
 
 Today is hard not to have a phone at all.
 
