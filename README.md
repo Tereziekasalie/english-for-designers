@@ -19,4 +19,6 @@ Welcome to my page, my name is Tereza and I am a graphic designer!
 - [Takeaways](takeaways)
 - [Abstract](abstract)
 
+## Presentations
+
 - [Final theses](Finaltheses)
