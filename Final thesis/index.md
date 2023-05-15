@@ -1,5 +1,4 @@
-Final thesis presentation
-
+## Final thesis presentation
 
 I chose to redesign small fruit winery. I really liked that winery produce their wines with respect to nature but they are not able to present it right way.
 
@@ -35,6 +34,8 @@ And another. They have in common that both labels are not distinctive and probab
 
 ![Jokl](jokl.jpg)
 
+## First idea
+
 I’ve been thinking from the beginning that I wanted to work by using illustrations and tell a nature fairy tale story.
 
 I was looking for how the place where the wines are made, could be connected to something super natural.
@@ -45,10 +46,35 @@ But as it happens my leader disagreed.
 
 ![FirstideaDevil](firstidea.jpg)
 
+## First skeches
+
 So I kept looking, and after a while, I came up with the idea of connecting the wine to the fairies, who are connected to nature on the different level than devils.
 
+Here you can see my first sketches and how I tried to add a fairy word into the label. 
+At the same time me and my leader decided put wines in 4 categories. 
+
+So from here I knew the way I want to go.
+
 ![Firstsketches](firstsketches.jpg)
-![Moodboard](moodboard.jpgg)
+
+## Moodboard
+
+My inspiration was mainly the variability of nature, the connection with it. 
+
+The elements of unpredictability and mother nature herself.
+
+I also wanted to add a fairy-tale wine story to the brand. I try to show this with a fairy-tale dropcap. 
+
+I was also inspired by Chanel and its name. This helps to keep unity and fairytale secrets.
+
+![Moodboard](moodboard.jpg)
+
+## Logo 
+
+I tried to keep it simple, because logo isn’t our main communication element. 
+So I let it rotate according to how the sun rises in seasons.
+In summer, for example, the day is the longest, so for summer I chose the longest position of the letter o. 
+
 ![Logonew](logo.jpg)
 
 ![logoaplication](logoaplication.jpg)
