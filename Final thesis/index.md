@@ -106,13 +106,21 @@ Instagram communicate also by seasons.
 
 The company should communicate on Instagram differently in each season both with color tonality and overall atmosphere in order to attract customers to the products that are most popular at the given time.
 
-In summer for example they promote the freshness and lightness of wines. In winter on the other hand wines with more pronounced flavors that can be warmed up so that clients can enjoy them by the fireplace and good food.
+In summer for example they promote the freshness and lightness of wines.
 
-On the proposal I connect the everyday world and incorporate a fairytale world into it. With this the company tries to inspire unique experiences and develop the customer's imagination not only when drinking Pankovo. wine.
+In winter on the other hand wines with more pronounced flavors that can be warmed up so that clients can enjoy them by the fireplace and good food.
+
+On the proposal I connect the everyday world and incorporate a fairytale world into it. 
+
+With this the company tries to inspire unique experiences and develop the customer's imagination not only when drinking Pankovo. wine.
 
 I use an illustrated photography that aims to point out the fact that Pankovo winery thinks about nature and its gifts in a different way.
 
-For photos that focus more on products such as photos of wines a pattern is designed that can be used by desie of the owner. I always apply the text to a uniform colored background in the totality of the given period. I reflect into it the ideas of the concept as a relationship with nature and the telling of fairytales.
+For photos that focus more on products such as photos of wines a pattern is designed that can be used by desie of the owner.
+
+I always apply the text to a uniform colored background in the totality of the given period.
+
+I reflect into it the ideas of the concept as a relationship with nature and the telling of fairytales.
 
 ![Springig](springinstagram.jpg)
 ![summerig](summerinsta.jpg)
