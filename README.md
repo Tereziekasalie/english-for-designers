@@ -21,5 +21,5 @@ Welcome to my page, my name is Tereza and I am a graphic designer!
 
 ## Presentations
 
-- [Final theses](finalthesis)
+- [Final theses](Final thesis/index.md)
 
