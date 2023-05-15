@@ -133,7 +133,7 @@ I made the website in such a way that it visually matches the whole identity of 
 
 The customer gets to know the philosophy of the company and its story. 
 
-Here I emphasize nature, nature and relationships. 
+Here I emphasize nature and relationships. 
 
 The world of fantasy is shown only on the main page of the website where I insert the white illustrations directly into the video which customers will see first.
 
