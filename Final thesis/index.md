@@ -63,7 +63,7 @@ My inspiration was mainly the variability of nature, the connection with it.
 
 The elements of unpredictability and mother nature herself.
 
-I also wanted to add a fairy-tale wine story to the brand. I try to show this with a fairy-tale dropcap. 
+I also wanted to add a fairytale wine story to the brand. I try to show this with a fairy-tale dropcap. 
 
 I was also inspired by Chanel and its name. This helps to keep unity and fairytale secrets.
 
@@ -73,20 +73,39 @@ I was also inspired by Chanel and its name. This helps to keep unity and fairyta
 
 I tried to keep it simple, because logo isn’t our main communication element. 
 So I let it rotate according to how the sun rises in seasons.
-In summer, for example, the day is the longest, so for summer I chose the longest position of the letter o. 
+In summer for example the day is the longest, so for summer I chose the longest position of the letter o. 
 
 ![Logonew](logo.jpg)
 
 ![logoaplication](logoaplication.jpg)
+
+## Ilustrations 
+
+Ilustrations were made to reflect seasons and taste of wines. 
+
+The four created categories are reflected in their names. This helps to create a unified and also makes it possible to classify the wines according to taste and freshness into these categories. 
+
 ![ilustrations](ilustrations.jpg)
 ![labelsnew](labels.jpg)
 ![Labelsaplication](labelsaplication.jpg)
 
+## Pattern 
+
+For winery social media I created pattern what they can use as they want to. And also keep visual style of instagram. 
+Instagram communicate also by seasons.
+
 ![pattern](pattern.jpg)
+
+## Instagram
+
 ![Springig](springinstagram.jpg)
 ![summerig](summerinsta.jpg)
 ![Autumnig](autumninsta.jpg)
 ![winterig](winterinsta.jpg)
 
+## Web 
+
 ![web](webdesign.jpg)
+
+## Gift bag for wine
 ![winebag](bagforwines.jpg)
