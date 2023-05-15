@@ -10,12 +10,12 @@ So at the first glance, it was for me like the the winery be good for using my i
 
 There you can see the web design what they use. They try to point out their relationship with nature but not in the right way.
 
-![Pankovowebdesign](pankovo.jpg)
+![Pankovowebdesign](bakalářka2.png)
 
 Labels for their wines are visually connected together, but it doesn't seems different from others. 
 They are not significant on the market.
 
-![Pankovolabelandlogo](pankovolabelandlogo.jpg)
+![Pankovolabelandlogo](bakalářka3.png)
  
 ## Research 
 
@@ -27,11 +27,11 @@ And because of the visuals they also seems like cheap versions of the fruit wine
 
 But against others they communicate with their clients somehow.
 
-![Rybizak](rybizak.jpg)
+![Rybizak](bakalářka4.png)
 
 This is another competitive company that doesn’t stand out at all in the market.
 
-![OvocnavinaStepanik](ovocnavina.jpg)
+![OvocnavinaStepanik](bakalářka5.png)
 
 And more. They have in common that both labels are not distinctive and probably uninteresting at the first glance.
 
