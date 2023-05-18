@@ -22,5 +22,5 @@ Welcome to my page, my name is Tereza and I am a graphic designer!
 ## Presentations
 
 - [Storytelling](Storytelling)
-- [Final thesis](Finalthesis)
-- [Year end review](yearandreview)
+- [Final Thesis](Finalthesis)
+- [Year End Review](yearandreview)
