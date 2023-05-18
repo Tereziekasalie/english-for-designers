@@ -22,4 +22,4 @@ Welcome to my page, my name is Tereza and I am a graphic designer!
 ## Presentations
 
 - [Storytelling](Storytelling)
-- [Final theses](Finalthesis)
+- [Final thesis](Finalthesis)
