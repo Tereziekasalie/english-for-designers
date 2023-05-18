@@ -23,3 +23,4 @@ Welcome to my page, my name is Tereza and I am a graphic designer!
 
 - [Storytelling](Storytelling)
 - [Final thesis](Finalthesis)
+- [Year end review](yearandreview)
