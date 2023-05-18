@@ -10,7 +10,6 @@ So at first glance, it was me like a winery be good for using my illustrations w
 
 There you can see the web design that they use. They try to point out their relationship with nature but not in the right way.
 
-
 ![Pankovowebdesign](pankovo.jpg)
 
 Labels for their wines are visually connected together, but it doesn't seems different from others. 
