@@ -53,6 +53,8 @@ But as it happens, my advisor disagreed.
 
 ## First skeches
 
+First sketches
+
 So I kept looking, and after a while, I came up with the idea of connecting the wine to the fairies that are connected to nature on a different level than devils.
 
 Here you can see my first sketches and how I tried to add a fairy word to the label. At the same time, my advisor and I decided to put wines into four categories.
