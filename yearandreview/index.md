@@ -12,7 +12,7 @@ Sometimes it was hard to stay focused while watching long videos or during a lon
 
 I definitely learned how to use github even though its very basic :D 
 I also learned how to create a good presentation also thanks to that I had the opportunity to see awesome presentations from classmates that you normally cannot see and on interesting topics with great metaphors.
-And and lastly I learned that I'm still learning and that it's not a problem if I screw something up as long as I want to fix it and work on the mistakes. I think this is a big difference in "American and Czech teaching" which is much more likeable to me. :)
+And and lastly I learned that I'm still learning that it's not a problem if I screw something up as long as I want to fix it and work on the mistakes. I think this is a big difference in "American and Czech teaching" which is much more likable to me. :)
 
 ### 4) What was the most memorable activity/assignment?
 
