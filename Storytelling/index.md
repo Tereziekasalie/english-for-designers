@@ -85,7 +85,7 @@ Deconstruct a logo by breaking it down into basic shapes and elements (circles, 
 Use these basic shapes co create completely new logo in few minutes. 
 ![4tips](21.png)
 
-This can be great way to help understand the power of basic shapes and elements in graphic design.
+This can be a great way to help understand the power of basic shapes and elements in graphic design.
 
 ### And another example for home <3 <3 <3
 
